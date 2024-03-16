@@ -1,4 +1,5 @@
-"inventories" : [
+{
+    "inventories" : [
     {
         "name": "Uncle Chips",
         "url": "https://drive.usercontent.google.com/download?id=19k1A1s83kWtbBoWwumR8USHN3LSNA8PW&export=download&authuser=2&confirm=t&uuid=ab41fc82-3d82-42ac-9e5e-5ee80e67b987&at=APZUnTWkBxr3MXl3r9lBNTXrB7gW:1710596790533",
@@ -24,4 +25,5 @@
         "url": "https://drive.usercontent.google.com/download?id=10_LTfozSH1HnWZWcr_mpi7tQ9E6CQ8lW&export=download&authuser=2&confirm=t&uuid=6fed361d-db7a-491d-93ed-5511114aa155&at=APZUnTV16oQAC3S1LhCYaLOZY3Ir:1710597007840",
         "count": 5
     }
-]
+    ]
+}
